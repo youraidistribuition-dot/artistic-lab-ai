@@ -1,0 +1,9 @@
+{
+  "name": "ArtisticLab AI: AI Producer",
+  "description": "Your AI artistic producer, manager, and creative mentor. Deep career strategy, real-time advice, and visual storytelling for Rap & Trap artists.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
